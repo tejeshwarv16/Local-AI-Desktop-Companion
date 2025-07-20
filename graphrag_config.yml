@@ -1,0 +1,13 @@
+# graphrag_config.yml
+
+llm:
+  type: static_response
+  response: "()" # Use a fake LLM for speed and to avoid API key errors
+
+storage:
+  type: memory # Use in-memory storage for this test
+
+pipeline:
+  default:
+    workflow:
+      - verb: index
