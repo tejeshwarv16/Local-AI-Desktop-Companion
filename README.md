@@ -2,10 +2,6 @@
 
 A fully private, locally-run AI desktop companion that uses a 3D avatar for interaction. This project combines local Large Language Models (LLMs), Text-to-Speech (TTS), and 3D rendering to create an interactive and engaging desktop experience.
 
-![Screenshot of the AI companion in action](https://i.imgur.com/your-image-url.png)
-
-*(Suggestion: Replace the image URL above with a link to a real screenshot or GIF of your application!)*
-
 ## ⚠️ Important Note on Performance
 
 This project is **highly resource-intensive**. It runs several demanding processes simultaneously:
